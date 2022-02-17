@@ -1,3 +1,4 @@
+![](https://i.postimg.cc/GpjnHKZ3/wallhaven-57pkm5.jpg)
 <h1 align="center">Hi 🌱, I'm •God Schuwi•</h1>
 <h3 align="center">Diseñar paginas y League of legends</h3>
 
