@@ -1,6 +1,6 @@
 ![](https://i.postimg.cc/GpjnHKZ3/wallhaven-57pkm5.jpg)
 <h1 align="center">Hi 🌱, I'm •God Schuwi•</h1>
-<h3 align="center">Diseñar paginas y League of legends</h3>
+<h3 align="center">|(• ◡•)| (❍ᴥ❍ʋ)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
