@@ -1,4 +1,4 @@
-![](https://tenor.com/view/karyl-kiruya-gif-24680291)
+![](https://imgur.com/rYWy5Ti.gif)
 <h1 align="center">Hi 🌱, I'm •God Schuwi•</h1>
 <h3 align="center">|(• ◡•)| (❍ᴥ❍ʋ)</h3>
 
