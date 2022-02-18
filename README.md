@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/1XvzKKgs/asdasdsad.gif)
+![](https://imgur.com/r10gzy6.gif)
 <h1 align="center">Hi 🌱, I'm •God Schuwi•</h1>
 <h3 align="center">|(• ◡•)| (❍ᴥ❍ʋ)</h3>
 
