@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/GpjnHKZ3/wallhaven-57pkm5.jpg)
+![](https://tenor.com/view/karyl-kiruya-gif-24680291)
 <h1 align="center">Hi 🌱, I'm •God Schuwi•</h1>
 <h3 align="center">|(• ◡•)| (❍ᴥ❍ʋ)</h3>
 
