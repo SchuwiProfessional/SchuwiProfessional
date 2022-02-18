@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/QCMPcNgH/makima-chainsaw-mana.gif)
+                                                 ![](https://i.postimg.cc/QCMPcNgH/makima-chainsaw-mana.gif)
 <h1 align="center">Hi 🌱, I'm •God Schuwi•</h1>
 <h3 align="center">|(• ◡•)| (❍ᴥ❍ʋ)</h3>
 
