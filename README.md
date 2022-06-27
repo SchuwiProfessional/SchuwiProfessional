@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/26pTbk35/En-n-Gku-Vg-AI1-Jr-E.jpg)
+<img align="center"src="https://i.postimg.cc/m2ZjF6Z7/1pvMKZp.gif"/>
 <h1 align="center">Hi 🌱, I'm God Schuwi</h1>
 <h3 align="center">|(• ◡•)| (❍ᴥ❍ʋ)</h3>
 
