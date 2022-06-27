@@ -34,7 +34,13 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5q9xziywhw4q1s5de4ub070ma&width={width})
+<br clear="both">
+
+<div align="center">
+  
+</div>
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31l4mqndravea6f2rxw5k7bp4oqy&cover_image=true&theme=default" /></div>  
 
 ###
 
