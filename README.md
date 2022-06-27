@@ -36,14 +36,8 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Schuwi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=5q9xziywhw4q1s5de4ub070ma&redirect=true][https://spotify-github-    profile.vercel.app/api/view.svg?uid=5q9xziywhw4q1s5de4ub070ma&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/NPcSchuwiPro/NPcSchuwiPro/blob/output/snake.svg" alt="Snake animation" />
 
 ###
