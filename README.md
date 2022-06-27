@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/XJQGMxM0/EWg-Eb-Ga-U0-AABl-SS.jpg)
+![](https://i.postimg.cc/HLjscmRF/wallhaven-72qqlo.jpg)
 <h1 align="center">Hi 🌱, I'm God Schuwi</h1>
 <h3 align="center">|(• ◡•)| (❍ᴥ❍ʋ)</h3>
 
