@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Schuwi and I'm a ..., from Perú</h2>
+<h1 align="center">Hi 🌱, I'm Alvaro</h1>
+<h3 align="center">|(• ◡•)| (❍ᴥ❍ʋ)</h3>
 
 ###
 
