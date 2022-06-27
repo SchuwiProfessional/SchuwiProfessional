@@ -1,4 +1,4 @@
-<img align="center"src="https://i.postimg.cc/m2ZjF6Z7/1pvMKZp.gif"/>
+![](https://i.postimg.cc/0yww6pSp/mireina.png)
 <h1 align="center">Hi 🌱, I'm God Schuwi</h1>
 <h3 align="center">|(• ◡•)| (❍ᴥ❍ʋ)</h3>
 
