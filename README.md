@@ -33,19 +33,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  
-</div>
-
-<div align="center"><img src= /></div>  
-
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/NPcSchuwiPro/NPcSchuwiPro/blob/output/snake.svg" alt="Snake animation" />
-
-###
