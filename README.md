@@ -1,5 +1,5 @@
 ![](https://i.postimg.cc/HLjscmRF/wallhaven-72qqlo.jpg)
-<h1 align="center">Hi 🌱, I'm God Alvaro Sebastian</h1>
+<h1 align="center">Hi 🌱, I'm Alvaro Sebastian</h1>
 <h3 align="center">|(• ◡•)| (❍ᴥ❍ʋ)</h3>
 
 ###
