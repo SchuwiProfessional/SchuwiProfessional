@@ -1,5 +1,5 @@
 ![](https://i.postimg.cc/HLjscmRF/wallhaven-72qqlo.jpg)
-<h1 align="center">Hi 🌱, I'm Alvaro Sebastian</h1>
+<h1 align="center">Hi 🌱, I'm Milagros Montero</h1>
 <h3 align="center">|(• ◡•)| (❍ᴥ❍ʋ)</h3>
 
 ###
@@ -25,13 +25,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/alvaro_sebastiian/?hl=es-la" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/god_schuwi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-</div>
+
 
 ###
