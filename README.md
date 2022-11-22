@@ -11,6 +11,17 @@
 
 ###
 
+<p align="center">
+  <img src="https://giphy.com/embed/XAxylRMCdpbEWUAvr8" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"
+</p>
+
+###
+
 <img align="right" height="150" src="https://i.postimg.cc/9FBPmPGz/4c74362ccb1139b54b448a573657a4b53ce35e94-00.gif"  />
 
 ###
@@ -22,9 +33,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows8 logo"  />
 </div>
-
-###
-
-
-
-###
